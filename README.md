@@ -1,0 +1,2 @@
+# Transformer_Translation_English_to_Chinese
+本任务要求你构建一个基于 PyTorch 的Transformer模型，将英文句子翻译成中文。你将使用 HuggingFace Datasets 加载并预处理IWSLT 2016数据集，实现模型训练和推理过程。
